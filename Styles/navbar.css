@@ -1,0 +1,30 @@
+/* .navbar {
+  background-color: white !important;
+} */
+
+nav ul li a{
+  color: black !important;
+  text-decoration: none;
+}
+#big {
+  display: inline;
+}
+#small {
+  display: none;
+}
+.dropdown .dropdown-menu {
+  margin-bottom: 10px;
+  background-color: white;
+}
+.dropdown-item:hover {
+  background-color: #ddd;
+}
+
+@media only screen and (max-width: 992px) {
+  #big {
+    display: none;
+  }
+  #small {
+    display: inline;
+  }
+}

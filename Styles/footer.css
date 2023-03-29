@@ -1,0 +1,22 @@
+.btn-floating{
+    border: none;
+    border-radius: 50%;
+    padding: 7px;
+}
+footer a{
+    width: 35px;
+    height: 35px; 
+}
+.btn-floating i{
+    font-size: 1.2em;
+}
+
+
+footer.text-center {
+    margin-top: 80px;
+    box-shadow: 0px 5px 15px #888888;
+
+}
+.cr{
+    background-color: whitesmoke;
+}
